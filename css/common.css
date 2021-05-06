@@ -1,0 +1,8 @@
+div#mymap {
+    width: 500px;
+    height: 500px;
+}
+
+.gm-style img[src='images/marker.png'] { /* iconで指定した画像の部分だけにスタイルを適応 */
+  border-radius:50%;
+}
